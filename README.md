@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on MySQL
-- 🌱 I’m currently learning to be a full stack web developer.
+- 🔭 I’m currently working on learning Sequelize. 
+- 🌱 On a journey to become a full stack web developer.
 - 📫 How to reach me: kristenmayorga@gmail.com 
 
 
