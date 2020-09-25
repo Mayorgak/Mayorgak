@@ -1,4 +1,4 @@
-### Hi, I'm Kristen.  👩🏽‍💻
+                   -> ### Hi, I'm Kristen.  👩🏽‍💻 <-
 
 
 - 🌱 On a journey to become a full stack web developer.
