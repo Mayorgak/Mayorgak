@@ -2,7 +2,7 @@
 
 
 
-![](https://github.com/Mayorgak/Mayorgak/blob/master/images/pixeltrue-web-development.png)
+
 
 
 - 🌱 On a journey to become a full stack web developer.
